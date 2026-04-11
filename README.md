@@ -42,7 +42,6 @@ especially in computational and embedded domains.
 ## 🔗 Contact
 
 - LinkedIn: https://www.linkedin.com/in/cp-barman10
-- 
   <a
     id="cy-effective-orcid-url"
     class="underline"
