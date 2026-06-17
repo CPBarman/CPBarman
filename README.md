@@ -26,8 +26,8 @@ Passionate about continuous learning and building a strong foundation for advanc
 ## 🔧 Embedded Systems
   - Microcontroller: 8051, AVR (ATmega series) 
   - Embedded C  
-  - Communication protocols: UART, SPI, and I2C.
-  - Circuit Design
+  - Communication protocols: UART, SPI, and I2C
+  - Analog Circuit Design
   - Printed Circuit Board (PCB) Design using KiCad
 
 ## 📐 LaTeX
