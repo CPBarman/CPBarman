@@ -24,11 +24,11 @@ Passionate about continuous learning and building a strong foundation for advanc
 ## 🛠️ Skills
 
 ## 🔧 Embedded Systems
+  - Microcontroller: 8051, AVR (ATmega series) 
   - Embedded C  
-  - 8051 Microcontroller  
-  - AVR (ATmega series)  
-  - GPIO, Timers, Interrupts  
-  - UART, SPI, I2C  
+  - Communication protocols: UART, SPI, and I2C.
+  - Circuit Design
+  - Printed Circuit Board (PCB) Design using KiCad
 
 ## 📐 LaTeX
   - Physics
