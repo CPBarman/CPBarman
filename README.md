@@ -14,11 +14,10 @@ Physics | Embedded Systems | Scientific Computing
 ## 🧠 About Me
 
 Physics Honours student with a strong interest in experimental physics, embedded systems, and scientific computing. I enjoy working on microcontroller-based projects and exploring how programming can be applied to real-world physical systems.
- 
-Experienced in working with 8051 and ATmega Series microcontrollers using Embedded C, with knowledge of circuit design, PCB design using KiCad, firmware development, sensor interfacing, and communication protocols such as UART, SPI, and I2C.
- 
-Passionate about continuous learning and building a strong foundation for advanced studies, research, and innovation in physics and embedded technologies.
 
+Experienced in working with 8051 and ATmega Series microcontrollers using Embedded C, with knowledge of Analog Circuit Design, Printed Circuit Board (PCB) Design using KiCad, firmware development, sensor interfacing, and communication protocols such as UART, SPI, and I2C.
+
+Passionate about continuous learning and building a strong foundation for advanced studies, research, and innovation in physics and embedded technologies.
 ---
 
 ## 🛠️ Skills
