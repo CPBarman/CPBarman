@@ -43,11 +43,11 @@ Passionate about continuous learning and building a strong foundation for advanc
   - Mathematics
 
 ## 💻 C Programming 
-  - **C Programming Fundamentals** — Variables, Data Types, Operators, and I/O
-  - **Control Flow and Functions** — Conditional Statements, Loops, Functions, and Recursion
-  - **Data Structures **— Arrays, Strings, Structures, Unions, and Enumerations
-  - **Pointers and Memory Management** — Pointers, Memory Addressing, and Dynamic Memory Allocation
-  - **File Handling and Modular Programming** — File I/O, Header Files, and Multi-file Programming
+  - C Programming Fundamentals — Variables, Data Types, Operators, and I/O
+  - Control Flow and Functions — Conditional Statements, Loops, Functions, and Recursion
+  - Data Structures — Arrays, Strings, Structures, Unions, and Enumerations
+  - Pointers and Memory Management — Pointers, Memory Addressing, and Dynamic Memory Allocation
+  - File Handling and Modular Programming — File I/O, Header Files, and Multi-file Programming
   
 
 ---
