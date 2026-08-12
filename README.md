@@ -22,10 +22,19 @@ Passionate about continuous learning and building a strong foundation for advanc
 
 ## 🛠️ Skills
 
+
+## 🐍 Python Programming and Data Analysis  
+  - Python Programming
+  - Scientific and Numerical Computing
+  - Data Analysis and Processing
+  - Data Visualization
+  - NumPy, Pandas, and Matplotlib
+  - Computational Physics
+
 ## 🔧 Embedded Systems
-  - Microcontroller: 8051, AVR (ATmega series) 
-  - Embedded C  
+  - Microcontroller: 8051, AVR (ATmega series)
   - Communication protocols: UART, SPI, and I2C
+  - Embedded C  
   - Analog Circuit Design
   - Printed Circuit Board (PCB) Design using KiCad
 
@@ -34,9 +43,12 @@ Passionate about continuous learning and building a strong foundation for advanc
   - Mathematics
 
 ## 💻 C Programming 
-
-## 🐍 Python  
-
+  - **C Programming Fundamentals** — Variables, Data Types, Operators, and I/O
+  - **Control Flow and Functions** — Conditional Statements, Loops, Functions, and Recursion
+  - **Data Structures **— Arrays, Strings, Structures, Unions, and Enumerations
+  - **Pointers and Memory Management** — Pointers, Memory Addressing, and Dynamic Memory Allocation
+  - **File Handling and Modular Programming** — File I/O, Header Files, and Multi-file Programming
+  
 
 ---
 
