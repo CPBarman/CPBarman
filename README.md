@@ -28,7 +28,7 @@ Passionate about continuous learning and building a strong foundation for advanc
   - Scientific and Numerical Computing
   - Data Analysis and Processing
   - Data Visualization
-  - NumPy, Pandas, and Matplotlib
+  - NumPy, Pandas, Matplotlib, and Seaborn
   - Computational Physics
 
 ## 🔧 Embedded Systems
