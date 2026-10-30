@@ -5,9 +5,7 @@
 
 <h1 align="center">Chaitonna Prosad Barman</h1>
 
-<h3 align="center">
-Physics | Embedded Systems | Scientific Computing
-</h3>
+
 
 ---
 
